@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.21.3
 MAINTAINER Mohammad Abdoli Rad <m.abdolirad@gmail.com>
 
 LABEL org.label-schema.name="shadowsocks-server" \
